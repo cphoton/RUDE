@@ -4,9 +4,9 @@
 
 There are 3 options for center differential support:
 
-a. (cheapest) DIY solution based on the HSP 02024 differential, replacing the crown differential with the standard spur gear, with a 3D printable gear mount.
-b. (most expensive) Traxxas 10760 (or 10760X)
-c. (intermediate cost) Traxxas 6878. Note that this is a slipper clutch, not a center differential.
+* (cheapest) DIY solution based on the HSP 02024 differential, replacing the crown differential with the standard spur gear, with a 3D printable gear mount.
+* (most expensive) Traxxas 10760 (or 10760X)
+* (intermediate cost) Traxxas 6878. Note that this is a slipper clutch, not a center differential.
 
 # Expectations
 
