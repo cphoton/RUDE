@@ -8,9 +8,18 @@ There are two configurations of the center diff:
 
 Choose the Center Diff plate accordingly.
 
+## BOM
+
+* 4x M3x8 countersunk hex screws
+* 4x M3 square nuts (DIN 562, not the thicker ones)
+* 1x HSP 02024 diff. If you have spares parts of one, the crown gear and 1-2 diff cups are not needed
+* 1-2 HSP 02030 (to use in the diff conversion)
+* 4-5mm of steel tubing (OD 5mm, 0.2mm wall thickness)
+
 ## Printing guidance
 
 Print in stiff materials. ASA/PC/PC-CF are good choices for motor plates. ASA is a good choice for gear mount (testing is appreciated, PC _should_ probably work)
+
 Gear mount needs supports in the center.
 
 ## Assembly instructions
@@ -19,7 +28,7 @@ Gear mount needs supports in the center.
 
 * Print the corresponding adapter depending on the spur gear revision
 1. Disassemble the diff, on the crown gear side, remove spider gear from diff cup.
-2. Cut 4-5mm of steel tubing, grab a HSP 02030 shaft and place the steel tubing on the thinner end. Install the spider gear there. It should look like https://cdn.discordapp.com/attachments/1351216969835221066/1357095648721375252/image0.jpg?ex=67f98150&is=67f82fd0&hm=f7aa63314c0ccdfb4fba17e5c859e6baabb0fea4f07e130fa9fd7a12465c1c1b&
+2. Cut 4-5mm of steel tubing, grab a HSP 02030 shaft and place the steel tubing on the thinner end. Install the spider gear there. It should look like this (TODO: insert picture here)
 3. Place the rubber washer in the pocket of the printed adapter.
 4. Install the shaft - don’t forget the metal washer!
 5. If using shafts for both ends of the diff, repeat steps 3 through 6 on the other end. Otherwise, proceed to next step.
